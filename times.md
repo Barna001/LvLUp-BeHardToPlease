@@ -4,3 +4,4 @@
 - Format mudafaking HTML to compile: 32 min
 - Add CSS: 9 min
 
+- Bootstrap & some formatting: 23 min

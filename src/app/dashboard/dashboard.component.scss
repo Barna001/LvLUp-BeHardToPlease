@@ -4,16 +4,22 @@ table {
 
 h1 {
   background-color: red;
+  display: inline-block;
 }
 
 h2 {
   background-color: orange;
+  display: inline-block;
 }
 
 h3 {
   background-color: yellow;
+  display: inline-block;
 }
 
 pre {
   background-color: green;
+  color: yellow;
+  font-style: italic;
+  display: inline-block;
 }
